@@ -1,0 +1,2 @@
+C:\Users\Michelle.Wong\MichProjects\Hiking\reactapp\obj\Debug\reactapp.esproj.SuggestedBindingRedirects.cache
+C:\Users\Michelle.Wong\MichProjects\Hiking\reactapp\obj\Debug\reactapp.esproj.CoreCompileInputs.cache
